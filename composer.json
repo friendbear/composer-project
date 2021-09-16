@@ -1,5 +1,7 @@
 {
     "require": {
-        "cakephp/chronos": "^2.2"
+        "cakephp/chronos": "^2.2",
+	"guzzle/guzzle": "3.0",
+        "geoip2/geoip2": "~2.0"
     }
 }
